@@ -18,7 +18,7 @@ from modal import App, Image, asgi_app
 
 # TODO: set your bot access key and bot name for full functionality
 # see https://creator.poe.com/docs/quick-start#configuring-the-access-credentials
-bot_access_key = os.getenv("POE_ACCESS_KEY")
+bot_access_key = os.getenv("ak-MW6dz3xmc4VGjXP22UKIQ4")
 bot_name = ""
 
 
